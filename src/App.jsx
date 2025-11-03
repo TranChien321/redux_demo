@@ -12,6 +12,7 @@ function App() {
             <Cart />
         </div>
     );
+    <div></div>;
 }
 
 export default App;
